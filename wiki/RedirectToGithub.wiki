@@ -1,0 +1,10 @@
+#summary Redirect to Github
+
+= We have moved! =
+
+The Rime project has moved to [https://github.com/rime/docs/wiki Github].
+
+  * [https://github.com/rime/docs/wiki/Downloads Downloads]
+  * [https://github.com/rime/docs/wiki Wiki]
+  * [https://github.com/rime/docs/wiki/RimeWithTheCode Source]
+  * [https://github.com/lotem/rimeime/issues Issues backlog]
